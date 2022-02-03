@@ -1,0 +1,6 @@
+                        EXERCÍCIO 3
+
+# a função Math.pow() exibe a potencia de um número;
+# teste com console.log() e as seguintes bases: 2,3,18 e o expoente deve ser 2;
+# Ex: Math.pow(5,3);
+# Recebe 2 argumentos, base e expoente;

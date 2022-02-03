@@ -1,0 +1,5 @@
+                        EXERCÍCIO 1
+
+# armazene valores em variaveis com cada um dos tipos de dados vistos ;
+
+# string, Number e Boolean;

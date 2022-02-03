@@ -1,0 +1,7 @@
+                        EXERCÍCIO 6
+
+# Faça uma estrutura if/else que verifica se um usuario pode dirigir;
+# armazenar em variaveis algumas informações sobre o usuario: idade e se tem CNH;
+# se a idade for maior de 18 e não tem CNH, exiba mensagem;
+# se a idade for maior de 18 e tem CNH, exiba mensagem;
+# se não tiver 18 nem CNH, exiba outra mensagem;

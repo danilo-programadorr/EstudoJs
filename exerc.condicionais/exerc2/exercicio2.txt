@@ -1,0 +1,5 @@
+                        EXERCÍCIO 2
+
+# crie uma estrutura if que verifica a entrada na balada, se tiver mais de 18 anos pode entrar 
+# armazenar a idade em uma variavel let;
+# insira uma instrução console.log(`pode entrar`), caso seja maior que 18 anos.
