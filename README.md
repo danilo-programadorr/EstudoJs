@@ -2,5 +2,5 @@
 <hr> 
 <br>
 <h1 align="center">
-  <img alt="" title="" src="./assets/programando.gif"/>
-</h1>
+
+ ![programando](https://user-images.githubusercontent.com/75100575/152958609-862461d5-a48b-4d3e-b47e-105fd4dd4507.gif)
