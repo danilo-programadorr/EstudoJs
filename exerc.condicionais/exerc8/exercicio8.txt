@@ -1,0 +1,3 @@
+                        EXERCÍCIO 8
+
+# Escreva um loop FOR que exiba números de 100 a 50 no console.

@@ -1,0 +1,3 @@
+                        EXERCÍCIO 7
+
+# Escreva um loop while que exiba números de 0 a 10 no console.
