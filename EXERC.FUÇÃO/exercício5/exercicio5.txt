@@ -1,0 +1,6 @@
+                        EXERCÍCIO 5
+
+# escreva uma função que detecta o tipo de dado passado
+# Verifeque se é um : Number, Boolean ou String e retorne uma mensagem para cada tipo.
+# retorne uma mensagem para cada tipo;
+# Execute uma função para cada caso.

@@ -1,0 +1,3 @@
+                        EXERCÍCIO 1
+
+# escreva uma função que imprima "Hello World" no console.

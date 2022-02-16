@@ -1,0 +1,5 @@
+                        EXERCÍCIO 2
+
+# escreva uma função que receba um parâmetro de idade;
+# e imprima esta mensagem no console com template literals dizendo
+"Você tem x anos"
