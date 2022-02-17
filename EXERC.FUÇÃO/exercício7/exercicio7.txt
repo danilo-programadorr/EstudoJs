@@ -1,0 +1,5 @@
+                        EXERCÍCIO 7
+
+# escreva uma função que receba uma String 
+# se o texto conter mais de 10 caracteres imprima 'texto muito longo'
+# se conter menos, imprima 'texto dentro do limite'

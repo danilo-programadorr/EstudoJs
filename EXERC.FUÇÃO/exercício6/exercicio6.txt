@@ -1,0 +1,4 @@
+                        EXERCÍCIO 6
+
+# escreva uma função que receba um número negativo e retorne um número  positivo
+# utilize a função Math.abs
