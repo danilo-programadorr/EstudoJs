@@ -1,4 +1,4 @@
                         EXERCÍCIO 9
 
 # Escreva um loop FOR ou WHILE que exiba qual número é par e qual é impar.
-# O contador de iniciar em 0 e ir até 50.
+# O contador deve iniciar em 0 e ir até 50.

@@ -5,5 +5,4 @@ function decremento () {
     }
     }
   }
-
 decremento();
