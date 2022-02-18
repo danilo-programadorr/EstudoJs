@@ -1,0 +1,4 @@
+                        EXERCÍCIO 9
+
+# Escreva uma função que receba um número, e o decremente de 1 em 1 com o loop
+# Além disso imprima somente os pares no console;
