@@ -7,6 +7,5 @@ let pessoas = {
 let keysPessoas = Object.keys(pessoas);
 console.log(keysPessoas);
 
-keysPessoas.nome4 = 'simone'
 
 console.log(keysPessoas);
