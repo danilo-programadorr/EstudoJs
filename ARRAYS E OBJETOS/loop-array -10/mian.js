@@ -6,8 +6,11 @@
 //   }
 // };
 
-let numeros = [1,2,6,5,8,10,6,5];
+let numeros = [1,2,7,5,8,10,6,9];
 
-let arrIlter = numeros.filter((elem,index,arr) => arr.indexOf(elem) === index && elem >= 2) 
+let arrIlter = numeros.filter((elem,index,arr) => arr.indexOf(elem) === index && elem % 2 == 0) 
 
-console.log(arrIlter)
+console.log(arrIlter) // numeros pares
+
+
+
