@@ -3,7 +3,7 @@ let nomes = ['danilo', 'hellen', 'pedro'];
 let bool = [true, false, true ];
 
 let misturando = [1,'danilo', true];
-console.log(arr[2])
-console.log(nomes[2])
-console.log(bool[2])
-console.log(misturando[0])
+console.log(arr)
+console.log(nomes)
+console.log(bool)
+console.log(misturando)
